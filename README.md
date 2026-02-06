@@ -3,16 +3,6 @@
 - [UL 3741 and Solar Hazard Control NACL Energy](https://www.nacleanenergy.com/solar/hazard-control-on-buildings-with-pv)
 
 
-Love it — this is one of those topics where a **clear, authoritative guide** actually moves the industry forward. Below is a **contractor- and engineer-grade field guide** you can use as:
-
-* a training document
-* a plan-review reference
-* a script backbone for your video
-* or a PDF/knowledge-base article
-
-I’m writing this the way inspectors *think*, not just how code books read.
-
----
 
 # **Rapid Shutdown Boundaries & Grounding**
 
