@@ -2,6 +2,7 @@
 - [Electrical License Renewal](https://www.electricallicenserenewal.com/Electrical-Continuing-Education-Courses/NEC-Content.php?sectionID=963)
 - [UL 3741 and Solar Hazard Control NACL Energy](https://www.nacleanenergy.com/solar/hazard-control-on-buildings-with-pv)
 
+<img width="1536" height="1024" alt="Example" src="https://github.com/user-attachments/assets/11f10e85-0758-4558-812d-f543764bcaa9" />
 
 
 # **Rapid Shutdown Boundaries & Grounding**
